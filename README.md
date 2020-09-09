@@ -25,6 +25,7 @@ satisfaction. Users can take dismiss surveys.
 - Technicians would see a dashboard with the number of tickets assigned to them,
 already completed tickets.
 
-**Video Demo**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VjI3DcLBteA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Demonstration**
+
+[Youtube](https://youtu.be/VjI3DcLBteA)
